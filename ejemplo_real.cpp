@@ -491,13 +491,13 @@ float kernellaplacioanogeneral(const arma::vec x, const arma::vec y, const arma:
 
 /*** R
 
-  library("RcppAlgos")
+library("RcppAlgos")
  
 
    
-   library("coin")
+library("coin")
    
-     data("GTSG")
+data("GTSG")
      
     
 
