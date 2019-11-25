@@ -6,7 +6,9 @@ library("RcppAlgos")
 library("coin")
    
 data("GTSG")
-     
+   
+
+Rcpp::sourceCpp('Algorithms.cpp')
     
 
          
